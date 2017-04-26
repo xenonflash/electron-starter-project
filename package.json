@@ -1,0 +1,30 @@
+{
+  "name": "electron-starter-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xenonflash/electron-starter-project.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "xenonflash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xenonflash/electron-starter-project/issues"
+  },
+  "homepage": "https://github.com/xenonflash/electron-starter-project#readme",
+  "devDependencies": {
+    "antd": "^2.9.3",
+    "echarts": "^3.5.3",
+    "electron": "^1.6.6",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
